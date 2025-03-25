@@ -3,8 +3,8 @@ Creating a MERN application that integrates TensorFlow for document scanning and
 
 # Application Features
 - User Authentication:
-   -Register and login functionality using JWT (JSON Web Tokens).
-   -Password encryption using bcrypt.
+   - Register and login functionality using JWT (JSON Web Tokens).
+   - Password encryption using bcrypt.
 
 - Document Management
   - Scan documents using TensorFlow-based Optical Character Recognition (OCR).
